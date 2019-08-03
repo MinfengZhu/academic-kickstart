@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Structuring Mobility Transition With an Adaptive Graph Representation."
+title: "Structuring Mobility Transition With an Adaptive Graph Representation"
 authors:
   [
     Tianlong Gu,

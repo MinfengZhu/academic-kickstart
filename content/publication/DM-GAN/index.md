@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis."
+title: "DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis"
 authors:
   [
     Minfeng Zhu,

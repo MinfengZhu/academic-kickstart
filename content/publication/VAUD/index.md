@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "VAUD: A visual analysis approach for exploring spatio-temporal urban data."
+title: "VAUD: A visual analysis approach for exploring spatio-temporal urban data"
 authors:
   [
     Wei Chen,
